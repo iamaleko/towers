@@ -1,2 +1,8 @@
-# towers
-Simple path finding algorithm for tower defence game.
+# Towers
+Simple path finding algorithm for future tower defence game.
+
+**Space** to change cell draw type between wall, start and finish.
+
+**Mouse** to draw cells.
+
+**Command + Mouse** to delete cells.
