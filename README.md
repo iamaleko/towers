@@ -6,3 +6,5 @@ Simple path finding algorithm for future tower defence game.
 **Mouse** to draw cells.
 
 **Command + Mouse** to delete cells.
+
+Please, give it a try iamaleko.github.io/towers/
