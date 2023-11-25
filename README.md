@@ -7,4 +7,4 @@ Simple path finding algorithm for future tower defence game.
 
 **Command + Mouse** to delete cells.
 
-Please, give it a try iamaleko.github.io/towers/
+Please, give it a try https://iamaleko.github.io/towers/
